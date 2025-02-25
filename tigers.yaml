@@ -1,6 +1,10 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: BeomHe
+=======
+manager: Beommo
+>>>>>>> tiger-branch
 
 members: 
 - DoYeong
